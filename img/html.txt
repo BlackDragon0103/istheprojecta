@@ -1,0 +1,68 @@
+        <div class="pachimu">
+            <div class="pachimu1">
+                <p class="pachimu_patamu">Полностью <strong>персонализированный подход</strong> к оформлению путешествия.</p>
+            </div>
+            <div class="pachimu2">
+                <p class="pachimu_patamu"><strong>Консьерж-сервис</strong> и дополнительные услуги по запросу клиента: от билетов на мероприятия до уникальных туристических маршрутов.</p>
+            </div>
+            <div class="pachimu3">
+                <p class="pachimu_patamu"><strong>Эксклюзивные предложения</strong> от мировых отельных цепочек.</p>
+            </div>
+            <div class="pachimu4">
+                <p class="pachimu_patamu">18 лет мы обеспечиваем незабываемый отдых клиентам и поддерживаем безупречную репутацию.</p>
+            </div>
+            <div class="pachimu5">
+                <p class="pachimu_patamu"><strong>Хорватия, Черногория, Словения и Италия</strong> – наши основные направления. Мы досконально знаем эти страны.</p>
+            </div>
+            <div class="pachimu6">
+                <p class="pachimu_patamu"><strong>Требовательный подход и внимание к деталям</strong> мы используем для организации туров и в другие страны.</p>
+            </div>
+            <div class="pachimu7">
+                <p class="pachimu_patamu">Гарантию лучшей стоимости мы обеспечиваем,<strong> заранее выкупая авиабилеты на чартерные рейсы.</strong></p>
+            </div>
+            <div class="pachimu8">
+                <p class="pachimu_patamu"><strong>С нами будут только приятные сюрпризы:</strong> мы вовремя предоставим всю необходимую информацию по правилам въезда, интересным событиям и другим важным новостям</p>
+            </div>
+        </div>
+
+        <div class="vytyr">
+            <div class="vytyr_1">
+                <div class="vytyr1"><p>Вы – представитель</p><p>турагентства?</p></div>
+                <div class="vytyr2"><p>Для вас у нас есть специальные выгодные предложения.</p></div>
+                    <div class="vytyr2"><h3></h3></div>
+                <div class="vytyr3"><button>Узнать подробнее</button></div>
+            </div>
+        </div>
+
+        <div class="prem_otd">
+            <p class="miobesp">Мы обеспечиваем</p>
+            <div class="prem_otd1">
+                <p class="otd235">ОТДЫХ ПРЕМИУМ-КЛАССА С БОЛЬШИМ ВНИМАНИЕМ К ДЕТАЛЯМ</p>
+                <p class="otd236">Специализируемся <strong>на 4 странах</strong></p>
+            </div>
+            <div class="strany">
+                <div class="strana1">
+                    <div><img src="C:\WEB\Sozdateli\K.B.P\123\Dz\Dzhka\img\Frame1.png" alt=""></div>
+                    <p class="satarna">Хорватия</p>
+                    <div><button class="strana">Подробнее</button></div>
+                </div>
+
+                <div class="strana2">
+                    <div><img src="C:\WEB\Sozdateli\K.B.P\123\Dz\Dzhka\img\Frame2.png" alt=""></div>
+                    <p class="satarna">Черногория</p>
+                    <div><button class="strana">Подробнее</button></div>
+                </div>
+
+                <div class="strana3">
+                    <div><img src="C:\WEB\Sozdateli\K.B.P\123\Dz\Dzhka\img\Frame3.png" alt=""></div>
+                    <p class="satarna">Словения</p>
+                    <div><button class="strana">Подробнее</button></div>
+                </div>
+
+                <div class="strana4">
+                    <div><img src="C:\WEB\Sozdateli\K.B.P\123\Dz\Dzhka\img\Frame4.png" alt=""></div>
+                    <p class="satarna">Италия</p>
+                    <div><button class="strana">Подробнее</button></div>
+                </div>
+            </div>
+        </div>

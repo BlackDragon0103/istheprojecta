@@ -1,0 +1,137 @@
+.pachimu {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 170px;
+    background: #F8F8F8;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.pachimu > div{
+    display: flex;
+    height: 165px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+    margin: 30px 30px 0 30px;
+    transition: 0.3s;
+}
+
+.pachimu_patamu{
+    margin: 30px 100px 0 30px;
+}
+
+.pachimu > div:hover{
+    border: solid darkgray 1.5px;
+    border-left: solid #DD4053 6px;
+}
+
+
+
+.vytyr{
+    display: flex;
+    color: #FFFFFF;
+    background: url("C:/WEB/Sozdateli/K.B.P/123/Dz/Dzhka/img/Rovinj-1.png");
+    height: 484px;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.vytyr_1{
+    padding: 100px 0 150px 200px;
+}
+
+.vytyr1{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 55px;
+    text-transform: uppercase;
+}
+
+.vytyr2{
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.vytyr3{
+
+}
+
+.vytyr3 > button{
+    border: none;
+    outline: none;
+    background: #FFFFFF;
+    border-radius: 2px;
+    width: 270px;
+    height: 60px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #969696;
+    transition: 0.25s;
+}
+
+.vytyr3 > button:hover{
+    border: 2.1px dashed #DD4053;
+    color: #DD4053;
+}
+
+.prem_otd{
+   padding: 0 80px 0 200px; 
+}
+
+.prem_otd1{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.otd235{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 42px;
+    color: #232323;
+}
+
+.otd236{
+    position: relative;
+    top: 30px;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 24px;
+    color: #DD4053;
+}
+
+.strany{
+    display: flex;
+    padding-top: 50px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.satarna{
+    position: relative;
+    bottom: 39px;
+    left: 50px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 55px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.strana{
+    border: none;
+    outline: none;
+    background: none;
+    border: 1px solid #969696;
+    color: #969696;
+    width: 190px;
+    height: 40px;
+    transition: 0.5s;
+    position: relative;
+    bottom: 40px;
+    border-radius: 2px;
+}
+
+.strana:hover{
+    background-color: #969696;
+    color: #FFFF;
+}
